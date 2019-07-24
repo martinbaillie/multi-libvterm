@@ -1,3 +1,12 @@
+;;; multi-libvterm.el --- Similiar to multi-term.el but integrates with emacs-libvterm
+
+;; Version: 1.0
+;; URL: https://github.com/suonlight/multi-libvterm
+
+;;; Commentary:
+;; This package provides a minor mode to frobnicate and/or
+;; bifurcate any flanges you desire.  To activate it, just type
+
 (require 'vterm)
 (require 'projectile)
 
